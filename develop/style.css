@@ -18,10 +18,10 @@ body {
 
 .wrapper {
 	width: 450px;
-	background: #111;
+	background: rgb(255, 140, 0);
 	border-radius: 5px;
 	padding: 20px 25px;
-	border: 1px solid #333;
+	border: 1px solid #68d4e0;
 }
 
 .wrapper .text {
